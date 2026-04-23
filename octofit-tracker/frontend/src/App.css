@@ -1,0 +1,33 @@
+/* App.css - Bootstrap custom styles for Octofit Tracker */
+body {
+  background-color: #f8f9fa;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: #0d6efd !important;
+}
+
+.card {
+  margin-bottom: 2rem;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
+
+h2, .h2 {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  color: #0d6efd;
+}
+
+.btn-primary {
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+}
+
+.btn-primary:hover {
+  background-color: #0b5ed7;
+  border-color: #0a58ca;
+}
